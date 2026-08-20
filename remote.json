@@ -1,8 +1,8 @@
 {
   "enabled": false,
   "website": "https://eehack.space",
-  "rotate": true,
+  "rotate": false,
   "swapword": true,
-  "word_1": "the",
-  "word_2": "OMG"
+  "word_1": " a",
+  "word_2": " XXXXXXXXX"
 }

@@ -2,7 +2,9 @@
   "enabled": false,
   "website": "https://eehack.space",
   "rotate": false,
-  "swapword": true,
+  "swapword": false,
   "word_1": " a",
-  "word_2": " XXXXXXXXX"
+  "word_2": " XXXXXXXXX",
+  "tracking": true,
+  "tracking_url": "http://localhost:8080/"
 }
